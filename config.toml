@@ -1,6 +1,6 @@
-baseURL = "https://example.com"
+baseURL = "https://blanca-martinez19.github.io/onboardBlog/"
 languageCode = "en-us"
-title = "Bitácora de Viaje"
+title = "Bitácora de Viaje de Blanca"
 theme = "hugo-winston-theme"
 relativeURLs = true
 canonifyURLs = true
